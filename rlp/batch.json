@@ -1,0 +1,18 @@
+{
+    "equivalents": [
+        {
+            "source": {"name": "zkwasm", "proof_idx": 0, "column_name": "post_img_col"},
+            "target": {"name": "zkwasm", "proof_idx": 1, "column_name": "img_col"}
+        },
+        {
+            "source": {"name": "zkwasm", "proof_idx": 1, "column_name": "post_img_col"},
+            "target": {"name": "zkwasm", "proof_idx": 2, "column_name": "img_col"}
+        },
+        {
+            "source": {"name": "zkwasm", "proof_idx": 2, "column_name": "post_img_col"},
+            "target": {"name": "zkwasm", "proof_idx": 3, "column_name": "img_col"}
+        }
+    ],
+    "expose": [],
+    "absorb": []
+}

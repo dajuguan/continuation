@@ -1,0 +1,7 @@
+[submodule "zkWasm"]
+	path = zkWasm
+	url = git@github.com:ethstorage/zkWasm.git
+	branch = cont_dev_es
+[submodule "continuation-batcher"]
+	path = continuation-batcher
+	url = https://github.com/dajuguan/continuation-batcher
